@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_background"
+    >
+    
+    <Button android:text="CusTab" android:id="@+id/button1" style="@style/btn_style"></Button>
+    <Button android:text="RadioGroup" android:id="@+id/button2"  style="@style/btn_style"></Button>
+    <Button android:text="ActivityGroup" android:id="@+id/button3"  style="@style/btn_style"></Button>
+
+
+</LinearLayout>
